@@ -42,7 +42,7 @@ class _HomePageState extends State<HomePage> {
                   height: 50,
                   child: MaterialButton(
                     color: Colors.green,
-                    child: const Text('Подтвердить'),
+                    child: const Text('Accept'),
                     onPressed: _onAccept,
                   ),
                 ),
